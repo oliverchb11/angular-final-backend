@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-repuestos-unisabaneta",
+  "private_key_id": "1c416b84fc0838bc8f31b94bd9ccf9d9ed5e4ff0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVHIQhpbBTwmqI\nHCpuQcNgIxgrzb9yPPKyeVXLDYATNPvB1BlaTfGzsTuomTtKxNPN0WFMaLakZo2v\nOMdYnc6pELX9v+ulyVzbffX9rdSOHPhkznnEI1gBKHdgP3BYm9oG9btsGyrjks+1\n7AoxT3k/QiLzrmiFAcNKkMF9tfxp/akOO9ZfnnTz60oo89EHYNCrcd+/ZA7z9mN8\nUGsFPeLBoZoxmfgWTDhRwKzYMVOM7SucEjllxh6R6t5c0DNgAOfBYgA2MMs/MbeI\ng+7KfcfnOsJsduyVtQwiDTaqHr9ajwCbmTylb/t9/1nGEodI/zxZuqb2/INl+/FZ\n8vQXIe2vAgMBAAECggEAPJzvt+I4VJpnUm8wYkuyFhXlOhA683MCVGDOVgJw+wWG\n1YpN67FfnYw7O6jZhFqXI2L6GZFu4TOJ+NxdVocL0GpAWPvNOkobbxJUdOKMIh97\nRrCzUWX8EdhAm89vVMR/LpuVwxm3CSMokMWh4ISKJ8PXzRc+AxaNRRgG8IpiUIKf\n+MCiirTOjYlvQxDwZd+XYZ8wbGXnRFVG4m+5zFXWgE1Tf7pPNNDHj3lDXz0vaPMe\nlE4nX9o2bgxyep5LO68+6h4TmoYDFhUT9fz1mwF6xq9wC6zCwkF8uhSsFm0kdWVb\n1OPdY+zkj2JRGQEw2xO1Gp/lGwhUVCJ3u3lOGlUXgQKBgQD5s/JtapVKdHucQVYM\nOq38ZKQ7KNVe3s6n6aOQ/00s31NYU5PFM/Ry+GDYOSHzhB3bwwW+RBjK5U8+LpyJ\ntMCAEaW60H1+4YADKQRRXkl/yMSS6r8LaFxTR7MGxLnzCArNX4+nZvfVyNTA58Nf\ntszkQtaed9WeS+39I3MRqgiQnQKBgQDafFaovxkUfcnRVNNWnXQ9hD2u+gOKXbe6\nzss6UxMrzShozVqYMoyPEbobCrnp8s0C1gRo65k+dyvFAAuW2pJxcj+1WQsCJYw1\n3n88aCbMSrWZRRz7j0scrUkupRon64rGin1bIADuKfmWg/auw5N3wVefFwd7A8Rl\noNc14NwHuwKBgQCUAeOKk4iWL2Eth1S3vvhuCEGIh3Wh3DNmOAip44odNOq0CiYm\n19rnYu4UfBjxvLfuETUQSFDhwvYrh3ll7mvD/bHcf8RDNuqn9OIIUPkD8z8BTn+b\nBWrkOjWVp3oI4hV1ElWWBmSUpYvmI/oce8AK9Ms99w353EvepeqI595XyQKBgQCf\nVnyQtkUhJ5dunZE/IrdqQa4GlPjOCQj8KOIXmAxsLkOhItpGEt9lW4VBQXJShqsy\nvUgcCG4LGzgFhMHu81pHeA20QMsBdsapZqmeMUrSRE3qCHhZkagyssGjTe8kW+gq\nYUeIlG95QY1vUrAtxh4fARbYxB/Fe/rYLxOkjGeLDwKBgCkOqJ0+WKJDaiymbW7i\ntxqY+HHQW+h2IjE6LJeVPeEhGnE4Mz7uhN+4Gq6evmUgMONHUasXdZ2zX0ipTtu6\n9NldIcolsJSEiWxS97HI9bLEAh5qpzh0Xiu5fbINcbf1Q15vmncN7SWC4MmS5gJQ\n2MAo1ZOfMLxgp9tzCBgBmWzh\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-k7ze3@proyecto-repuestos-unisabaneta.iam.gserviceaccount.com",
+  "client_id": "107573542527090796992",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-k7ze3%40proyecto-repuestos-unisabaneta.iam.gserviceaccount.com"
+}
